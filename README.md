@@ -65,5 +65,7 @@ Task Setting      | M    | F    |  B     | O
 
 where the metrics are F1 score on **M**asculine and **F**eminine examples, **O**verall, and a **B**ias factor calculated as **F** / **M**.
 
+[(Kocijan et al., 2020)](https://arxiv.org/abs/2011.01837) introduce an alternative bias score for the dataset which aims to alleviate some of the data imbalances within GAP. For details, please refer to their [GitHub repository](https://github.com/vid-koci/weightingGAP).
+
 ## Contact
 To contact us, please use gap-coreference@google.com
